@@ -1,0 +1,31 @@
+public class App {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+public static void man(String[] args) throws Exception {}
+  //creación de variables dentro de un método 
+  int valor = 5;
+  String comision = "Jose Antonio";
+  String nombre = "Morgado";
+  String apellidos = "Morgado"; //Clase String de java -- métodos
+  // string ciudad = "Almeria"; //tipo básico 
+
+  //
+  String nombre completo;
+  nombreCompleto = nombre + " " + apellidos;
+  nombreCompleto.concat(nombre).concat("").concat(apellidos);
+  System.out.println(nombreCompleto.lenght());
+  System.out.println("Nombre = " + nombreCompleto.concat(" y eres de ").concat(apellidos);
+  System.out.println(("vives en").concat(ciudad));
+
+  System.out.println(("vives en").concat(ciudad));+"\n");
+  System.out.println(("vives en").concat(ciudad));
+
+  Scanner s = new Scanner(System.in);
+
+ 
+
+
+
