@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Notas",
+            "request": "launch",
+            "mainClass": "ejercisio.arrays.Notas",
+            "projectName": "clases_f20dcc02"
+        },
+        {
+            "type": "java",
+            "name": "AdivinaElNumero",
+            "request": "launch",
+            "mainClass": "AdivinaElNumero",
+            "projectName": "clases_f20dcc02"
+        },
+        {
+            "type": "java",
+            "name": "Notas",
+            "request": "launch",
+            "mainClass": "arrays.Notas",
+            "projectName": "clases_f20dcc02"
+        },
+        {
+            "type": "java",
+            "name": "Aleatorios",
+            "request": "launch",
+            "mainClass": "ejercisio.Aleatorios",
+            "projectName": "clases_f20dcc02"
+        },
+        {
+            "type": "java",
+            "name": "personaAleatoria",
+            "request": "launch",
+            "mainClass": "arrays.personaAleatoria",
+            "projectName": "clases_f20dcc02"
+        },
+        {
+            "type": "java",
+            "name": "ejercisioClase",
+            "request": "launch",
+            "mainClass": "arrays.ejercisioClase",
+            "projectName": "clases_f20dcc02"
+        },
+        {
+            "type": "java",
+            "name": "unaDym",
+            "request": "launch",
+            "mainClass": "arrays.unaDym",
+            "projectName": "clases_f20dcc02"
+        },
+        {
+            "type": "java",
+            "name": "ejersicio",
+            "request": "launch",
+            "mainClass": "ejercisio.ejersicio",
+            "projectName": "clases_f20dcc02"
+        },
+        {
+            "type": "java",
             "name": "prueba1",
             "request": "launch",
             "mainClass": "bucles.prueba1",

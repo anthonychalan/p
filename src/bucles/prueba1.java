@@ -14,9 +14,9 @@ public class prueba1 {
         // Prueba1.clear();
       
         System.out.print("Introduce el valor de n: ");
-        int n = Prueba1.entrada.nextInt();
-        System.out.println("La suma es: "+ Prueba1.sumarN(n));
-        System.out.println("El factorial es: "+ Prueba1.factorialN(n));
+        int n = prueba1.entrada.nextInt();
+        System.out.println("La suma es: "+ prueba1.sumarN(n));
+        System.out.println("El factorial es: "+ prueba1.factorialN(n));
         
         
     }
@@ -24,7 +24,7 @@ public class prueba1 {
     public static void clear(){
       System.out.println("");
       System.out.print("Desea continuar s/n: ");;
-      char n = Prueba1.entrada.next().toLowerCase().charAt(0);
+      char n = prueba1.entrada.next().toLowerCase().charAt(0);
       if (n == 's'){
         System.out.print("\033[H\033[2J");
         System.out.flush();
@@ -41,7 +41,7 @@ public class prueba1 {
     public static void mostrarN(){
       //mostrar los N primeros números
       System.out.print("Introduce el valor de n: ");
-      int n = Prueba1.entrada.nextInt();
+      int n = prueba1.entrada.nextInt();
       for (int i=1; i<=n; i++){
         System.out.print(i + " - ");
       }
@@ -61,7 +61,7 @@ public class prueba1 {
         factorial = factorial * i;
       }
       return factorial;
-    
+    }
     }
 
 

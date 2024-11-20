@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Lectura {
+public class lectura {
     public static void main(String[] args) throws Exception {
         // en la var, cadena almacena la lectura por consola
         Scanner sc = new Scanner(System.in);

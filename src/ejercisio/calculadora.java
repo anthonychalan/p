@@ -1,4 +1,4 @@
-import java.util.Scanner; 
+import java.util.Scanner;
 
 public class calculadora {
     public static Scanner entrada = new Scanner(System.in); 
