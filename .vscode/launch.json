@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "poo.Main",
+            "projectName": "clases_f20dcc02"
+        },
+        {
+            "type": "java",
             "name": "Notas",
             "request": "launch",
             "mainClass": "ejercisio.arrays.Notas",

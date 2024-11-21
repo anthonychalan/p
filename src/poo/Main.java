@@ -1,4 +1,6 @@
 package poo;
+import javax.swing.plaf.basic.BasicInternalFrameTitlePane.SystemMenuBar;
+
 import poo.Vehiculo;
 
 public class Main {
@@ -17,6 +19,7 @@ public class Main {
         v2.Info();
         System.out.println(v1);
         System.out.println(v2);
+        
 
     }
 }
